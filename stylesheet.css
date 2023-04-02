@@ -62,6 +62,6 @@ footer{
 }
 @media (max-width: 570px) {
     li{
-        margin: 30%;
+        margin: 0 30%;
     }
   }
