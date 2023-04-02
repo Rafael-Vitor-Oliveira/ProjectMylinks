@@ -60,7 +60,7 @@ footer{
     font-family: 'Bebas Neue', cursive;
     text-align: center;
 }
-@media (max-width: 415px), (max-height: 660) {
+@media (max-width: 415px), (max-height: 660px) {
     li{
         margin: 0 30%;
     }
