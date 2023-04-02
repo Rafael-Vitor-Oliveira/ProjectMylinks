@@ -61,5 +61,7 @@ footer{
     text-align: center;
 }
 @media (max-width: 570px) {
-    
+    li{
+        margin: 30%;
+    }
   }
